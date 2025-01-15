@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lheverly
+- 👋 Hi, I’m Lucas Heverly
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning SQL, Python, Power BI, and how to build a website
 - 💞️ I’m looking to work as a data analyst
