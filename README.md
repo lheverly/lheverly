@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lheverly
-- 👀 I’m interested in data analytic
+- 👀 I’m interested in data analytics
 - 🌱 I’m currently learning SQL, Python, Power BI, and how to build a website
 - 💞️ I’m looking to collaborate with anyone interested in data
 - 📫 How to reach me: lucasheverly9@gmail.com
